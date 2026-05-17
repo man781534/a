@@ -1,0 +1,126 @@
+[
+  {
+    "name": "📺电视直播",
+    "api": "https://raw.giteeusercontent.com/man781534/uz/raw/master/tv.m3u?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ0di5tM3UiLCJ1aWQiOjE2NDc2NDcwLCJwaWQiOjQzODE2OTQ1LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTEwdC0wMTkiLCJycCI6InJlcG9zLzNhL2I5LzNhYjkxOTMyNWJkYzVhMjIwNjM3MGMyMDcwYzI0NDFkZGQxNzU5MDVlYzE3ZWM3ZjdmNTU1MTY5NWFkMTBmOGEuZ2l0IiwiZXhwaXJlX2F0IjoxNzc4ODE0NjAwfQ&signature=IQEQJVJJh9Bluii06f-iqQi_gYIyi2o1LvFdXntnHRM",
+    "type": 10
+  },
+  {
+    "name": "[直] 星辰影视",
+    "version": 3,
+    "webSite": "https://www.shandongbaogai.com/",
+    "order": "B",
+    "api": "https://gitee.com/man781534/uz/raw/master/js/xc.js",
+    "type": 101
+  },
+  {
+    "name": "[直] 全集影视",
+    "version": 3,
+    "webSite": "https://www.onibough.com/",
+    "order": "B",
+    "api": "https://gitee.com/man781534/uz/raw/master/js/qj.js",
+    "type": 101
+  },
+  {
+    "name": "[直] 柠檬影院",
+    "version": 3,
+    "webSite": "https://m.ydfdj.com/",
+    "order": "B",
+    "api": "https://gitee.com/man781534/uz/raw/master/js/nmys.js",
+    "type": 101
+  },
+  {
+    "name": "[直] 优质资源",
+    "version": 3,
+    "webSite": "https://get.1080zyk17.com/",
+    "order": "B",
+    "api": "https://gitee.com/man781534/uz/raw/master/js/yzzy.js",
+    "type": 101
+  },
+  {
+    "name": "[直] GD音乐台",
+    "version": 3,
+    "webSite": "https://music.gdstudio.xyz/",
+    "codeID": "tyZWrAkjDWJ2fYaq4VNCWGYzVUD2onuZ",
+    "order": "B",
+    "api": "https://gitee.com/man781534/uz/raw/master/js/Zhi_gdstudio.txt",
+    "type": 101
+  },
+  {
+    "api": "https://jszyapi.com/api.php/provide/vod",
+    "name": "[采1]极速资源",
+    "order": "D3",
+    "type": 0
+  },
+  {
+    "api": "https://bfzyapi.com/api.php/provide/vod",
+    "name": "[采] 暴风资源",
+    "order": "D3",
+    "type": 0
+  },
+  {
+    "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/",
+    "name": "最大",
+    "order": "D3",
+    "type": 0
+  },
+  {
+    "api": "https://iqiyizyapi.com/api.php/provide/vod",
+    "name": "爱奇艺",
+    "order": "D3",
+    "type": 0
+  },
+  {
+    "api": "https://cj.lziapi.com/api.php/provide/vod/",
+    "name": "量子",
+    "order": "D3",
+    "type": 0
+  },
+  {
+    "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+    "name": "卧龙",
+    "order": "D3",
+    "type": 0
+  },
+  {
+    "api": "https://www.mdzyapi.com/api.php/provide/vod",
+    "name": "魔都",
+    "order": "D3",
+    "type": 0
+  },
+  {
+    "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+    "name": "豆瓣",
+    "order": "D3",
+    "type": 0
+  },
+  {
+    "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+    "name": "茅台",
+    "order": "D3",
+    "type": 0
+  },
+  {
+    "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
+    "name": "金鹰",
+    "order": "D3",
+    "type": 0
+  },
+  {
+    "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/json/",
+    "name": "如意",
+    "order": "D3",
+    "type": 0
+  },
+  {
+    "api": "https://tyyszyapi.com/api.php/provide/vod/", 
+    "name": "天涯",
+    "order": "D3",
+    "type": 0
+  },
+  {
+    "api": "https://api.wujinapi.me/api.php/provide/vod/",
+    "name": "[采] 无尽资源",
+    "order": "D3",
+    "type": 0
+  }
+]

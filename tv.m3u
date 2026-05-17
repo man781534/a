@@ -1,0 +1,271 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="央视频道", CCTV-1
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-2
+http://39.134.179.185:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236393/index.m3u8?IASHttpSessionId=RR3935620250615081834045255&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-3
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236244/index.m3u8?IASHttpSessionId=RR3933720250615082015045248&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-4
+http://39.134.179.152:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236442/index.m3u8?IASHttpSessionId=RR3940320250615103119076207&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-4欧洲
+http://39.134.179.135:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8?IASHttpSessionId=RR3932420250615103204060740&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-4美洲
+http://120.199.224.135:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8?IASHttpSessionId=RR3933820250615103250049212&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-5
+http://39.134.179.138:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236444/index.m3u8?IASHttpSessionId=RR3933520250615103403062994&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-5+
+http://120.199.224.183:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236306/index.m3u8?IASHttpSessionId=RR3933920250615103441078279&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-6
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236256/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-7
+http://39.134.179.135:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236219/index.m3u8?IASHttpSessionId=RR3932820250615103617061650&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-8
+http://39.134.179.143:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236211/index.m3u8?IASHttpSessionId=RR3934520250615103650070232&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-9
+http://39.134.179.158:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236246/index.m3u8?IASHttpSessionId=RR3934520250615103727070360&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-10
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236238/index.m3u8?IASHttpSessionId=RR3937620250615103804068041&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-11
+http://120.199.224.135:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236216/index.m3u8?IASHttpSessionId=RR3933420250615103836060509&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-12
+http://120.199.224.151:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236203/index.m3u8?IASHttpSessionId=RR3933820250615103908050588&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-13
+http://39.134.179.141:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236169/index.m3u8?IASHttpSessionId=RR3932820250615103938062305&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-14
+http://39.134.179.130:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236317/index.m3u8?IASHttpSessionId=RR3933820250615104012050793&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-15
+http://39.134.179.147:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236165/index.m3u8?IASHttpSessionId=RR3933720250615104047072603&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-16
+http://120.199.224.142:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8?IASHttpSessionId=RR3933820250615104428051559&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-17
+http://39.134.179.133:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8?IASHttpSessionId=RR3941820250615104521056672&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-高尔夫网球
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3940820250615104558066821&ispcode=26
+#EXTINF:-1 group-title="央视频道", CCTV-4K
+http://39.134.179.145:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935220250615104637072698&ispcode=26
+#EXTINF:-1 group-title="央视频道", CCTV-发现之旅
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236398/index.m3u8?IASHttpSessionId=RR3933920250615104714080768&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CCTV-中学生
+http://120.199.224.135:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236325/index.m3u8?IASHttpSessionId=RR3932520250615104753055701&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CGTN-记录
+http://120.199.224.142:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236205/index.m3u8?IASHttpSessionId=RR3938020250615104844079270&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CGTN-法语
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236288/index.m3u8?IASHttpSessionId=RR3936920250615104921077540&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CGTN-阿语
+http://120.199.224.150:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236290/index.m3u8?IASHttpSessionId=RR3936120250615105001067386&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CGTN-俄语
+http://39.134.179.131:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236228/index.m3u8?IASHttpSessionId=RR3934220250615105036075232&ispcode=2000146
+#EXTINF:-1 group-title="央视频道", CGTN-西语
+http://39.134.179.151:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236235/index.m3u8?IASHttpSessionId=RR3932220250615105112070145&ispcode=2000146
+
+#EXTINF:-1 group-title="地方卫视",凤凰中文
+http://120.199.224.139:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8?IASHttpSessionId=RR3934520250615105211073380&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",凤凰资讯
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8?IASHttpSessionId=RR3940820250615105309068354&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",北京卫视
+http://39.134.179.139:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236241/index.m3u8?IASHttpSessionId=RR3936120250615110430070662&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",东方卫视
+http://120.199.224.166:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236227/index.m3u8?IASHttpSessionId=RR3941120250615111448075457&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",深圳卫视
+http://120.199.224.134:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236251/index.m3u8?IASHttpSessionId=RR3933520250615111521071911&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",浙江卫视
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236269/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",湖南卫视
+http://39.134.179.156:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236225/index.m3u8?IASHttpSessionId=RR3937620250615111628076380&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",天津卫视
+http://39.134.179.173:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236217/index.m3u8?IASHttpSessionId=RR3942220250615111704077218&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",河北卫视
+http://120.199.224.134:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236242/index.m3u8?IASHttpSessionId=RR3936920250615111741083852&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",江苏卫视
+http://120.199.224.143:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236221/index.m3u8?IASHttpSessionId=RR3932820250615111813070643&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",山东卫视
+http://39.134.179.137:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236159/index.m3u8?IASHttpSessionId=RR3935620250615111907081366&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",安徽卫视
+http://39.134.179.145:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236177/index.m3u8?IASHttpSessionId=RR3932720250615111941084414&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",河南卫视
+http://39.134.179.174:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231264/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3936920250616031151170852&ispcode=26
+#EXTINF:-1 group-title="地方卫视",湖北卫视
+http://39.134.179.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236271/index.m3u8?IASHttpSessionId=RR3935020250615112047078302&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",黑龙江卫视
+http://39.134.179.175:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236226/index.m3u8?IASHttpSessionId=RR3941820250615112122064894&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",辽宁卫视
+http://120.199.224.142:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236161/index.m3u8?IASHttpSessionId=RR3937220250615112156080732&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",吉林卫视
+http://39.134.179.132:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236268/index.m3u8?IASHttpSessionId=RR3936920250615112857086982&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",重庆卫视
+http://120.199.224.166:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236292/index.m3u8?IASHttpSessionId=RR3934120250615112932082383&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",四川卫视
+http://120.199.224.147:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236255/index.m3u8?IASHttpSessionId=RR3932520250615113015065848&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",广东卫视
+http://120.199.224.182:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236262/index.m3u8?IASHttpSessionId=RR3935520250615113048078620&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",广西卫视
+http://120.199.224.143:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236263/index.m3u8?IASHttpSessionId=RR3933820250615113121062733&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",江西卫视
+http://39.134.179.172:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236212/index.m3u8?IASHttpSessionId=RR3937820250615113204077265&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",海南卫视
+http://39.134.179.152:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236232/index.m3u8?IASHttpSessionId=RR3934320250615113245072307&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",甘肃卫视
+http://39.134.179.133:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236201/index.m3u8?IASHttpSessionId=RR3933420250615113319073637&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",陕西卫视
+http://120.199.224.182:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236370/index.m3u8?IASHttpSessionId=RR3932520250616023305145903&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",云南卫视
+http://120.199.224.142:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236234/index.m3u8?IASHttpSessionId=RR3933220250616023347151915&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",贵州卫视
+http://39.134.179.171:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236236/index.m3u8?IASHttpSessionId=RR3933020250616023422157539&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",青海卫视
+http://120.199.224.178:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8?IASHttpSessionId=RR3938020250616023453169254&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",东南卫视
+http://39.134.179.156:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236151/index.m3u8?IASHttpSessionId=RR3932420250616023524153901&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",海峡卫视
+http://120.199.224.147:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236416/index.m3u8?IASHttpSessionId=RR3933420250616023555152424&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",大湾区卫视
+http://120.199.224.150:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236327/index.m3u8?IASHttpSessionId=RR3935720250616023630156269&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",延边卫视
+http://120.199.224.166:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236229/index.m3u8?IASHttpSessionId=RR3940820250616023700157815&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",兵团卫视
+http://39.134.179.132:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236191/index.m3u8?IASHttpSessionId=RR3942220250616023729160842&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",宁夏卫视
+http://39.134.179.156:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236209/index.m3u8?IASHttpSessionId=RR3934820250616023759157567&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",山西卫视
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236264/index.m3u8?IASHttpSessionId=RR3932720250616023831167492&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",厦门卫视
+http://39.134.179.136:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236231/index.m3u8?IASHttpSessionId=RR3941620250616023903168700&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",西藏卫视
+http://39.134.179.139:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236274/index.m3u8?IASHttpSessionId=RR3936520250616023935149369&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",新疆卫视
+http://39.134.179.134:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236215/index.m3u8?IASHttpSessionId=RR3933820250616024006143338&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",内蒙古卫视
+http://39.134.179.151:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236270/index.m3u8?IASHttpSessionId=RR3941820250616024036147586&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",康巴卫视
+http://39.134.179.130:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236185/index.m3u8?IASHttpSessionId=RR3935020250616024103161275&ispcode=2000146
+#EXTINF:-1 group-title="地方卫视",CETV-1
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228285/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
+#EXTINF:-1 group-title="地方卫视",CETV-2
+http://39.134.179.174:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233746/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3936920250616031151170852&ispcode=26
+#EXTINF:-1 group-title="地方卫视", CETV-4
+http://120.199.224.174:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235543/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3940620250616024159155414&ispcode=26
+#EXTINF:-1 group-title="数字频道",重温经典
+http://39.134.179.147:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3937620250616024802161620&ispcode=26
+#EXTINF:-1 group-title="数字频道", Y+
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
+#EXTINF:-1 group-title="数字频道", 中华美食
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
+#EXTINF:-1 group-title="数字频道", 至臻视界
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235589/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",谍战大剧
+http://120.199.224.166:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/index.m3u8?IASHttpSessionId=RR3933220250616025008153450&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",潮婆辣妈
+http://39.134.179.139:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236167/index.m3u8?IASHttpSessionId=RR3935020250616025036162215&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",欢乐剧场
+http://39.134.179.139:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236173/index.m3u8?IASHttpSessionId=RR3934520250616025108164765&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",爱情喜剧
+http://120.199.224.134:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236179/index.m3u8?IASHttpSessionId=RR3935320250616025135149087&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",动作电影
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8?IASHttpSessionId=RR3934520250616025204164868&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",家庭剧场
+http://120.199.224.166:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236206/index.m3u8?IASHttpSessionId=RR3936120250616025236158685&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",哒波赛事
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",军事评论
+http://39.134.179.172:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236155/index.m3u8?IASHttpSessionId=RR3932320250616025335173936&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",怡伴健康
+http://39.134.179.143:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236220/index.m3u8?IASHttpSessionId=RR3933520250616025402157431&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",惊悚悬疑
+http://120.199.224.150:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236223/index.m3u8?IASHttpSessionId=RR3934320250616025433153156&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",农业致富
+http://39.134.179.151:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236233/index.m3u8?IASHttpSessionId=RR3932620250616025923160103&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",精品大剧
+http://39.134.179.133:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236239/index.m3u8?IASHttpSessionId=RR3935120250616025952163158&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",古装剧场
+http://120.199.224.135:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236240/index.m3u8?IASHttpSessionId=RR3936120250616030025159513&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",武搏天下
+http://120.199.224.167:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236247/index.m3u8?IASHttpSessionId=RR3933020250616030055160281&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",中国功夫
+http://120.199.224.174:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236267/index.m3u8?IASHttpSessionId=RR3932820250616030513157587&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",烽烟剧场
+http://120.199.224.139:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236276/index.m3u8?IASHttpSessionId=RR3932820250616030543157636&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",军旅剧场
+http://120.199.224.139:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236278/index.m3u8?IASHttpSessionId=RR3937820250616030614159324&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",精品体育
+http://39.134.179.131:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8?IASHttpSessionId=RR3935020250616030704163922&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",炫舞未来
+http://120.199.224.175:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236230/index.m3u8?IASHttpSessionId=RR3932620250616030733160943&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",爱浪漫
+http://39.134.179.137:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3942220250616030816163916&ispcode=26
+#EXTINF:-1 group-title="数字频道",爱院线
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3932620250616030846161055&ispcode=26
+#EXTINF:-1 group-title="数字频道",爱喜剧
+http://39.134.179.152:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3941120250616030913162592&ispcode=26
+#EXTINF:-1 group-title="数字频道",爱科幻
+http://120.199.224.138:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3936520250616030940152389&ispcode=26
+#EXTINF:-1 group-title="数字频道",爱玩具
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935120250616031058164314&ispcode=26
+#EXTINF:-1 group-title="数字频道",爱科学
+http://39.134.179.174:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3936920250616031151170852&ispcode=26
+#EXTINF:-1 group-title="数字频道",爱奇谈
+http://120.199.224.139:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3932220250616031217163233&ispcode=26
+#EXTINF:-1 group-title="数字频道",爱赛车
+http://120.199.224.178:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8?IASHttpSessionId=RR3934220250616031245168865&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",爱旅行
+http://120.199.224.166:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8?IASHttpSessionId=RR3935520250616031311161895&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",爱历史
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",爱悬疑
+http://39.134.179.174:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236652/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3936920250616031151170852&ispcode=26
+#EXTINF:-1 group-title="数字频道",爱谍战
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",爱体育
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",游戏风云
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236353/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",金鹰纪实
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236333/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",四海钓鱼
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236390/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="数字频道",优优宝贝
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229380/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
+#EXTINF:-1 group-title="数字频道",茶频道
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229404/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
+#EXTINF:-1 group-title="浙江频道",浙江新闻
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233049/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
+#EXTINF:-1 group-title="浙江频道",浙江少儿
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
+#EXTINF:-1 group-title="浙江频道",浙江教科
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232999/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
+#EXTINF:-1 group-title="浙江频道",浙江民生
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
+#EXTINF:-1 group-title="浙江频道",浙江经济
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
+#EXTINF:-1 group-title="浙江频道",浙江钱江
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
+#EXTINF:-1 group-title="浙江频道",北京影视
+http://110.42.37.69:6688/live/live.php?token=fplqRl29Qi&id=bjys
+#EXTINF:-1 group-title="浙江频道",北京生活
+http://110.42.37.69:6688/live/live.php?token=fplqRl29Qi&id=bjsh
+#EXTINF:-1 group-title="浙江频道",北京文艺
+http://110.42.37.69:6688/live/live.php?token=fplqRl29Qi&id=bjwy
+#EXTINF:-1 group-title="浙江频道",北京财经
+http://110.42.37.69:6688/live/live.php?token=fplqRl29Qi&id=bjcj
+#EXTINF:-1 group-title="浙江频道",杭州综合
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="浙江频道",杭州西湖明珠
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="浙江频道",杭州生活
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230472/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="浙江频道",杭州影视
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="浙江频道",杭州少儿体育
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="浙江频道",杭州导视
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="少儿频道",黑莓动画
+http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
+#EXTINF:-1 group-title="少儿频道",嘉佳卡通
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228593/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
+#EXTINF:-1 group-title="少儿频道",优漫卡通
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228378/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
+#EXTINF:-1 group-title="少儿频道",卡酷少儿
+https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&t=1762831815&token=bef0736cbdc3ba10cca2d24032373479
+#EXTINF:-1 group-title="少儿频道",金鹰卡通
+http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228362/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
