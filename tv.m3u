@@ -239,14 +239,6 @@ http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322
 http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
 #EXTINF:-1 group-title="浙江频道",浙江钱江
 http://39.134.179.140:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8?fmt=ts2hls&IASHttpSessionId=RR3935320250616024836148810&ispcode=26
-#EXTINF:-1 group-title="浙江频道",北京影视
-http://110.42.37.69:6688/live/live.php?token=fplqRl29Qi&id=bjys
-#EXTINF:-1 group-title="浙江频道",北京生活
-http://110.42.37.69:6688/live/live.php?token=fplqRl29Qi&id=bjsh
-#EXTINF:-1 group-title="浙江频道",北京文艺
-http://110.42.37.69:6688/live/live.php?token=fplqRl29Qi&id=bjwy
-#EXTINF:-1 group-title="浙江频道",北京财经
-http://110.42.37.69:6688/live/live.php?token=fplqRl29Qi&id=bjcj
 #EXTINF:-1 group-title="浙江频道",杭州综合
 http://120.199.224.146:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8?IASHttpSessionId=RR3934420250615081645043493&ispcode=2000146
 #EXTINF:-1 group-title="浙江频道",杭州西湖明珠
