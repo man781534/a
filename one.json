@@ -9,7 +9,7 @@
     "version": 3,
     "webSite": "https://www.shandongbaogai.com/",
     "order": "B",
-    "api": "https://gitee.com/man781534/uz/raw/master/js/xc.js",
+    "api": "https://raw.githubusercontent.com/man781534/a/refs/heads/main/js/xc.js",
     "type": 101
   },
   {
@@ -17,7 +17,7 @@
     "version": 3,
     "webSite": "https://www.onibough.com/",
     "order": "B",
-    "api": "https://gitee.com/man781534/uz/raw/master/js/qj.js",
+    "api": "https://raw.githubusercontent.com/man781534/a/refs/heads/main/js/qj.js",
     "type": 101
   },
   {
@@ -25,7 +25,7 @@
     "version": 3,
     "webSite": "https://m.ydfdj.com/",
     "order": "B",
-    "api": "https://gitee.com/man781534/uz/raw/master/js/nmys.js",
+    "api": "https://raw.githubusercontent.com/man781534/a/refs/heads/main/js/nmys.js",
     "type": 101
   },
   {
@@ -33,7 +33,7 @@
     "version": 3,
     "webSite": "https://get.1080zyk17.com/",
     "order": "B",
-    "api": "https://gitee.com/man781534/uz/raw/master/js/yzzy.js",
+    "api": "https://raw.githubusercontent.com/man781534/a/refs/heads/main/js/yzzy.js",
     "type": 101
   },
   {
@@ -42,7 +42,7 @@
     "webSite": "https://music.gdstudio.xyz/",
     "codeID": "tyZWrAkjDWJ2fYaq4VNCWGYzVUD2onuZ",
     "order": "B",
-    "api": "https://gitee.com/man781534/uz/raw/master/js/Zhi_gdstudio.txt",
+    "api": "https://raw.githubusercontent.com/man781534/a/refs/heads/main/js/Zhi_gdstudio.txt",
     "type": 101
   },
   {
