@@ -1,7 +1,7 @@
 [
   {
     "name": "📺电视直播",
-    "api": "https://raw.giteeusercontent.com/man781534/uz/raw/master/tv.m3u?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ0di5tM3UiLCJ1aWQiOjE2NDc2NDcwLCJwaWQiOjQzODE2OTQ1LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTEwdC0wMTkiLCJycCI6InJlcG9zLzNhL2I5LzNhYjkxOTMyNWJkYzVhMjIwNjM3MGMyMDcwYzI0NDFkZGQxNzU5MDVlYzE3ZWM3ZjdmNTU1MTY5NWFkMTBmOGEuZ2l0IiwiZXhwaXJlX2F0IjoxNzc4ODE0NjAwfQ&signature=IQEQJVJJh9Bluii06f-iqQi_gYIyi2o1LvFdXntnHRM",
+    "api": "https://github.com/man781534/a/blob/main/tv.m3u",
     "type": 10
   },
   {
