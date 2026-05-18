@@ -37,15 +37,6 @@
     "type": 101
   },
   {
-    "name": "[直] GD音乐台",
-    "version": 3,
-    "webSite": "https://music.gdstudio.xyz/",
-    "codeID": "tyZWrAkjDWJ2fYaq4VNCWGYzVUD2onuZ",
-    "order": "B",
-    "api": "https://raw.githubusercontent.com/man781534/a/refs/heads/main/js/Zhi_gdstudio.txt",
-    "type": 101
-  },
-  {
     "api": "https://jszyapi.com/api.php/provide/vod",
     "name": "[采1]极速资源",
     "order": "D3",
